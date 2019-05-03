@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-circuit-break",
+  "version": "1.0.0",
+  "description": "learning how to use package brakes for circuit break",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brake",
+    "circuit",
+    "break",
+    "node",
+    "nodejs"
+  ],
+  "author": "Stefanio k Yonamine",
+  "license": "ISC",
+  "dependencies": {
+    "brakes": "^2.7.0",
+    "express": "^4.16.4",
+    "opossum": "^1.11.0"
+  }
+}
